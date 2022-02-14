@@ -18,7 +18,7 @@ mkdir garage
     
     python generate_training_data.py --output_dir=data/PEMS-BAY --traffic_df_filename=data/pems-bay.h5 --seq_length_x=12 ----seq_length_y=12
 
-Note that the  readings  of  the  sensors  are  aggregated  into  5-minutes windows, therefore 15-minute-, 30-minute-, and 60-minutes-ahead predictions correspod to
+Note that the  readings  of  the  sensors  are  aggregated  into  5-minutes windows, therefore 15-minute-, 30-minute-, and 60-minutes-ahead predictions correspond to
 the seq_length equal to 3, 6, 12 resepctively. You need to set the seq_length_x and seq_length_y based on your prediction when processing raw data.
 
 ## Pretrained step

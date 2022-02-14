@@ -1,5 +1,7 @@
 # ADVERSPARSE
-This is the original pytorch implementation of ADVERSPARSE in the following paper: [ADVERSPARSE: AN ADVERSARIAL ATTACK FRAMEWORK FORDEEP SPATIAL-TEMPORAL GRAPH NEURAL NETWORKS, ICASSP 2022]
+This is the original pytorch implementation of ADVERSPARSE in the following paper: 
+
+[ADVERSPARSE: AN ADVERSARIAL ATTACK FRAMEWORK FORDEEP SPATIAL-TEMPORAL GRAPH NEURAL NETWORKS, ICASSP 2022]
 
 
 ## Data prepration

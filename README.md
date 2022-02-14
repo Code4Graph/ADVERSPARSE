@@ -7,6 +7,7 @@ Download METR-LA and PEMS-BAY data from [Google Drive](https://drive.google.com/
 
 ## Create data directories
 mkdir -p data/{METR-LA,PEMS-BAY}
+
 mkdir garage
 
 ### METR-LA
